@@ -43,12 +43,14 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/am4tsuki/am4tsuki/main/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=am4tsuki&show_icons=true&locale=en&layout=compact" alt="am4tsuki" />
 </div>
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=am4tsuki&show_icons=true&locale=en&layout=compact" alt="am4tsuki" /></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/am4tsuki/am4tsuki/main/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
