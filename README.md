@@ -42,7 +42,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/am4tsuki/am4tsuki/main/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/am4tsuki/am4tsuki/main/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
