@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hmdfzi/hmdfzi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/am4tsuki/am4tsuki/main/snake.svg" alt="Snake animation" />
 
 ###
 
