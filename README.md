@@ -2,7 +2,13 @@
 
 ###
 
-<h2 align="left">About me : </h2>
+<div align="center">
+  <img height="225" src="https://i.ibb.co/Y2ZhLGG/img-2.jpg"  />
+</div>
+
+###
+
+<h2 align="left">About me</h2>
 
 ###
 
@@ -14,7 +20,7 @@
 
 ###
 
-<h4 align="left">- 📫 Reach me in instagram **@hmdfzzi**</h4>
+<h4 align="left">- 📫 Reach me : @hmdfzzi</h4>
 
 ###
 
